@@ -23,7 +23,7 @@ SSPAR = 0.7  # spline parameter for smoothing.
 
 ### read master summary file. This global data frame is used by several
 ### function to look up tree diamter, etc.
-bark.sum <- read.csv(file.path(DATA_FOLDER, "BarkData.csv"))
+bark.sum <- read.csv(file.path(DATA_FOLDER, "bark_data.csv"))
 
 
 
