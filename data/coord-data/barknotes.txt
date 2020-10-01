@@ -1,0 +1,11 @@
+D60 (diameter at 60cm) is width in cm
+
+Point Depths are in mm
+
+date is in m/dd/yyyy
+
+BarkDataAll is .csv as .txt
+
+Last updated 02/03/2012
+
+117 pixels/cm
